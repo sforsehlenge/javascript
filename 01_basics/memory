@@ -1,0 +1,9 @@
+ stack memory and heap memory
+
+
+jitne bhi primitive data types h wo stack m store hote hai
+and jitne bhi non primitive data types hote hain wo heap m store hote
+
+stack(primitive)  heap (non-primitive)
+stack m jo bhi variable delclare hota uska copy milta hai
+heap m jo bhi variable dclare kiya uska refrance milta hai
